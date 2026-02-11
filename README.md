@@ -68,6 +68,12 @@ with open("data/municipalities.csv", encoding="utf-8") as f:
 
 Municipality names follow SCB conventions. The `municipality_name` field uses the standard form with "kommun" suffix (e.g., "Stockholms kommun").
 
+### Coverage notes
+
+`postal_to_municipality.csv` contains 15,463 postal codes from a September 2024 extract. Sweden has roughly 18,000–19,000 postal codes in total (per [GeoNames](https://download.geonames.org/export/zip/SE.zip)), so this dataset covers approximately 82% of known codes. The missing codes are spread across all regions and are likely box/company postal codes and other special-purpose codes that the Dataman source does not include.
+
+- [GeoNames SE postal data](https://download.geonames.org/export/zip/SE.zip) offers broader coverage (~18,870 codes) but does not include municipality code mappings and has some Swedish character encoding issues.
+
 ## Validation
 
 Run the validation script (Python 3, no dependencies):
