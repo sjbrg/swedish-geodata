@@ -1,0 +1,291 @@
+municipality_code,municipality_name,municipality_name_short,county_code,county_name,county_name_short
+0114,Upplands Väsby kommun,Upplands Väsby,01,Stockholms län,Stockholm
+0115,Vallentuna kommun,Vallentuna,01,Stockholms län,Stockholm
+0117,Österåkers kommun,Österåker,01,Stockholms län,Stockholm
+0120,Värmdö kommun,Värmdö,01,Stockholms län,Stockholm
+0123,Järfälla kommun,Järfälla,01,Stockholms län,Stockholm
+0125,Ekerö kommun,Ekerö,01,Stockholms län,Stockholm
+0126,Huddinge kommun,Huddinge,01,Stockholms län,Stockholm
+0127,Botkyrka kommun,Botkyrka,01,Stockholms län,Stockholm
+0128,Salems kommun,Salem,01,Stockholms län,Stockholm
+0136,Haninge kommun,Haninge,01,Stockholms län,Stockholm
+0138,Tyresö kommun,Tyresö,01,Stockholms län,Stockholm
+0139,Upplands-Bro kommun,Upplands-Bro,01,Stockholms län,Stockholm
+0140,Nykvarns kommun,Nykvarn,01,Stockholms län,Stockholm
+0160,Täby kommun,Täby,01,Stockholms län,Stockholm
+0162,Danderyds kommun,Danderyd,01,Stockholms län,Stockholm
+0163,Sollentuna kommun,Sollentuna,01,Stockholms län,Stockholm
+0180,Stockholms kommun,Stockholm,01,Stockholms län,Stockholm
+0181,Södertälje kommun,Södertälje,01,Stockholms län,Stockholm
+0182,Nacka kommun,Nacka,01,Stockholms län,Stockholm
+0183,Sundbybergs kommun,Sundbyberg,01,Stockholms län,Stockholm
+0184,Solna kommun,Solna,01,Stockholms län,Stockholm
+0186,Lidingö kommun,Lidingö,01,Stockholms län,Stockholm
+0187,Vaxholms kommun,Vaxholm,01,Stockholms län,Stockholm
+0188,Norrtälje kommun,Norrtälje,01,Stockholms län,Stockholm
+0191,Sigtuna kommun,Sigtuna,01,Stockholms län,Stockholm
+0192,Nynäshamns kommun,Nynäshamn,01,Stockholms län,Stockholm
+0305,Håbo kommun,Håbo,03,Uppsala län,Uppsala
+0319,Älvkarleby kommun,Älvkarleby,03,Uppsala län,Uppsala
+0330,Knivsta kommun,Knivsta,03,Uppsala län,Uppsala
+0331,Heby kommun,Heby,03,Uppsala län,Uppsala
+0360,Tierps kommun,Tierp,03,Uppsala län,Uppsala
+0380,Uppsala kommun,Uppsala,03,Uppsala län,Uppsala
+0381,Enköpings kommun,Enköping,03,Uppsala län,Uppsala
+0382,Östhammars kommun,Östhammar,03,Uppsala län,Uppsala
+0428,Vingåkers kommun,Vingåker,04,Södermanlands län,Södermanland
+0461,Gnesta kommun,Gnesta,04,Södermanlands län,Södermanland
+0480,Nyköpings kommun,Nyköping,04,Södermanlands län,Södermanland
+0481,Oxelösunds kommun,Oxelösund,04,Södermanlands län,Södermanland
+0482,Flens kommun,Flen,04,Södermanlands län,Södermanland
+0483,Katrineholms kommun,Katrineholm,04,Södermanlands län,Södermanland
+0484,Eskilstuna kommun,Eskilstuna,04,Södermanlands län,Södermanland
+0486,Strängnäs kommun,Strängnäs,04,Södermanlands län,Södermanland
+0488,Trosa kommun,Trosa,04,Södermanlands län,Södermanland
+0509,Ödeshögs kommun,Ödeshög,05,Östergötlands län,Östergötland
+0512,Ydre kommun,Ydre,05,Östergötlands län,Östergötland
+0513,Kinda kommun,Kinda,05,Östergötlands län,Östergötland
+0560,Boxholms kommun,Boxholm,05,Östergötlands län,Östergötland
+0561,Åtvidabergs kommun,Åtvidaberg,05,Östergötlands län,Östergötland
+0562,Finspångs kommun,Finspång,05,Östergötlands län,Östergötland
+0563,Valdemarsviks kommun,Valdemarsvik,05,Östergötlands län,Östergötland
+0580,Linköpings kommun,Linköping,05,Östergötlands län,Östergötland
+0581,Norrköpings kommun,Norrköping,05,Östergötlands län,Östergötland
+0582,Söderköpings kommun,Söderköping,05,Östergötlands län,Östergötland
+0583,Motala kommun,Motala,05,Östergötlands län,Östergötland
+0584,Vadstena kommun,Vadstena,05,Östergötlands län,Östergötland
+0586,Mjölby kommun,Mjölby,05,Östergötlands län,Östergötland
+0604,Aneby kommun,Aneby,06,Jönköpings län,Jönköping
+0617,Gnosjö kommun,Gnosjö,06,Jönköpings län,Jönköping
+0642,Mullsjö kommun,Mullsjö,06,Jönköpings län,Jönköping
+0643,Habo kommun,Habo,06,Jönköpings län,Jönköping
+0662,Gislaveds kommun,Gislaved,06,Jönköpings län,Jönköping
+0665,Vaggeryds kommun,Vaggeryd,06,Jönköpings län,Jönköping
+0680,Jönköpings kommun,Jönköping,06,Jönköpings län,Jönköping
+0682,Nässjö kommun,Nässjö,06,Jönköpings län,Jönköping
+0683,Värnamo kommun,Värnamo,06,Jönköpings län,Jönköping
+0684,Sävsjö kommun,Sävsjö,06,Jönköpings län,Jönköping
+0685,Vetlanda kommun,Vetlanda,06,Jönköpings län,Jönköping
+0686,Eksjö kommun,Eksjö,06,Jönköpings län,Jönköping
+0687,Tranås kommun,Tranås,06,Jönköpings län,Jönköping
+0760,Uppvidinge kommun,Uppvidinge,07,Kronobergs län,Kronoberg
+0761,Lessebo kommun,Lessebo,07,Kronobergs län,Kronoberg
+0763,Tingsryds kommun,Tingsryd,07,Kronobergs län,Kronoberg
+0764,Alvesta kommun,Alvesta,07,Kronobergs län,Kronoberg
+0765,Älmhults kommun,Älmhult,07,Kronobergs län,Kronoberg
+0767,Markaryds kommun,Markaryd,07,Kronobergs län,Kronoberg
+0780,Växjö kommun,Växjö,07,Kronobergs län,Kronoberg
+0781,Ljungby kommun,Ljungby,07,Kronobergs län,Kronoberg
+0821,Högsby kommun,Högsby,08,Kalmar län,Kalmar
+0834,Torsås kommun,Torsås,08,Kalmar län,Kalmar
+0840,Mörbylånga kommun,Mörbylånga,08,Kalmar län,Kalmar
+0860,Hultsfreds kommun,Hultsfred,08,Kalmar län,Kalmar
+0861,Mönsterås kommun,Mönsterås,08,Kalmar län,Kalmar
+0862,Emmaboda kommun,Emmaboda,08,Kalmar län,Kalmar
+0880,Kalmars kommun,Kalmar,08,Kalmar län,Kalmar
+0881,Nybro kommun,Nybro,08,Kalmar län,Kalmar
+0882,Oskarshamns kommun,Oskarshamn,08,Kalmar län,Kalmar
+0883,Västerviks kommun,Västervik,08,Kalmar län,Kalmar
+0884,Vimmerby kommun,Vimmerby,08,Kalmar län,Kalmar
+0885,Borgholms kommun,Borgholm,08,Kalmar län,Kalmar
+0980,Gotlands kommun,Gotland,09,Gotlands län,Gotland
+1060,Olofströms kommun,Olofström,10,Blekinge län,Blekinge
+1080,Karlskrona kommun,Karlskrona,10,Blekinge län,Blekinge
+1081,Ronneby kommun,Ronneby,10,Blekinge län,Blekinge
+1082,Karlshamns kommun,Karlshamn,10,Blekinge län,Blekinge
+1083,Sölvesborgs kommun,Sölvesborg,10,Blekinge län,Blekinge
+1214,Svalövs kommun,Svalöv,12,Skåne län,Skåne
+1230,Staffanstorps kommun,Staffanstorp,12,Skåne län,Skåne
+1231,Burlövs kommun,Burlöv,12,Skåne län,Skåne
+1233,Vellinge kommun,Vellinge,12,Skåne län,Skåne
+1256,Östra Göinge kommun,Östra Göinge,12,Skåne län,Skåne
+1257,Örkelljunga kommun,Örkelljunga,12,Skåne län,Skåne
+1260,Bjuvs kommun,Bjuv,12,Skåne län,Skåne
+1261,Kävlinge kommun,Kävlinge,12,Skåne län,Skåne
+1262,Lomma kommun,Lomma,12,Skåne län,Skåne
+1263,Svedala kommun,Svedala,12,Skåne län,Skåne
+1264,Skurups kommun,Skurup,12,Skåne län,Skåne
+1265,Sjöbo kommun,Sjöbo,12,Skåne län,Skåne
+1266,Hörby kommun,Hörby,12,Skåne län,Skåne
+1267,Höörs kommun,Höör,12,Skåne län,Skåne
+1270,Tomelilla kommun,Tomelilla,12,Skåne län,Skåne
+1272,Bromölla kommun,Bromölla,12,Skåne län,Skåne
+1273,Osby kommun,Osby,12,Skåne län,Skåne
+1275,Perstorps kommun,Perstorp,12,Skåne län,Skåne
+1276,Klippans kommun,Klippan,12,Skåne län,Skåne
+1277,Åstorps kommun,Åstorp,12,Skåne län,Skåne
+1278,Båstads kommun,Båstad,12,Skåne län,Skåne
+1280,Malmö kommun,Malmö,12,Skåne län,Skåne
+1281,Lunds kommun,Lund,12,Skåne län,Skåne
+1282,Landskrona kommun,Landskrona,12,Skåne län,Skåne
+1283,Helsingborgs kommun,Helsingborg,12,Skåne län,Skåne
+1284,Höganäs kommun,Höganäs,12,Skåne län,Skåne
+1285,Eslövs kommun,Eslöv,12,Skåne län,Skåne
+1286,Ystads kommun,Ystad,12,Skåne län,Skåne
+1287,Trelleborgs kommun,Trelleborg,12,Skåne län,Skåne
+1290,Kristianstads kommun,Kristianstad,12,Skåne län,Skåne
+1291,Simrishamns kommun,Simrishamn,12,Skåne län,Skåne
+1292,Ängelholms kommun,Ängelholm,12,Skåne län,Skåne
+1293,Hässleholms kommun,Hässleholm,12,Skåne län,Skåne
+1315,Hylte kommun,Hylte,13,Hallands län,Halland
+1380,Halmstads kommun,Halmstad,13,Hallands län,Halland
+1381,Laholms kommun,Laholm,13,Hallands län,Halland
+1382,Falkenbergs kommun,Falkenberg,13,Hallands län,Halland
+1383,Varbergs kommun,Varberg,13,Hallands län,Halland
+1384,Kungsbacka kommun,Kungsbacka,13,Hallands län,Halland
+1401,Härryda kommun,Härryda,14,Västra Götalands län,Västra Götaland
+1402,Partille kommun,Partille,14,Västra Götalands län,Västra Götaland
+1407,Öckerö kommun,Öckerö,14,Västra Götalands län,Västra Götaland
+1415,Stenungsunds kommun,Stenungsund,14,Västra Götalands län,Västra Götaland
+1419,Tjörns kommun,Tjörn,14,Västra Götalands län,Västra Götaland
+1421,Orusts kommun,Orust,14,Västra Götalands län,Västra Götaland
+1427,Sotenäs kommun,Sotenäs,14,Västra Götalands län,Västra Götaland
+1430,Munkedals kommun,Munkedal,14,Västra Götalands län,Västra Götaland
+1435,Tanums kommun,Tanum,14,Västra Götalands län,Västra Götaland
+1438,Dals-Eds kommun,Dals-Ed,14,Västra Götalands län,Västra Götaland
+1439,Färgelanda kommun,Färgelanda,14,Västra Götalands län,Västra Götaland
+1440,Ale kommun,Ale,14,Västra Götalands län,Västra Götaland
+1441,Lerums kommun,Lerum,14,Västra Götalands län,Västra Götaland
+1442,Vårgårda kommun,Vårgårda,14,Västra Götalands län,Västra Götaland
+1443,Bollebygds kommun,Bollebygd,14,Västra Götalands län,Västra Götaland
+1444,Grästorps kommun,Grästorp,14,Västra Götalands län,Västra Götaland
+1445,Essunga kommun,Essunga,14,Västra Götalands län,Västra Götaland
+1446,Karlsborgs kommun,Karlsborg,14,Västra Götalands län,Västra Götaland
+1447,Gullspångs kommun,Gullspång,14,Västra Götalands län,Västra Götaland
+1452,Tranemo kommun,Tranemo,14,Västra Götalands län,Västra Götaland
+1460,Bengtsfors kommun,Bengtsfors,14,Västra Götalands län,Västra Götaland
+1461,Melleruds kommun,Mellerud,14,Västra Götalands län,Västra Götaland
+1462,Lilla Edets kommun,Lilla Edet,14,Västra Götalands län,Västra Götaland
+1463,Marks kommun,Mark,14,Västra Götalands län,Västra Götaland
+1465,Svenljunga kommun,Svenljunga,14,Västra Götalands län,Västra Götaland
+1466,Herrljunga kommun,Herrljunga,14,Västra Götalands län,Västra Götaland
+1470,Vara kommun,Vara,14,Västra Götalands län,Västra Götaland
+1471,Götene kommun,Götene,14,Västra Götalands län,Västra Götaland
+1472,Tibro kommun,Tibro,14,Västra Götalands län,Västra Götaland
+1473,Töreboda kommun,Töreboda,14,Västra Götalands län,Västra Götaland
+1480,Göteborgs kommun,Göteborg,14,Västra Götalands län,Västra Götaland
+1481,Mölndals kommun,Mölndal,14,Västra Götalands län,Västra Götaland
+1482,Kungälvs kommun,Kungälv,14,Västra Götalands län,Västra Götaland
+1484,Lysekils kommun,Lysekil,14,Västra Götalands län,Västra Götaland
+1485,Uddevalla kommun,Uddevalla,14,Västra Götalands län,Västra Götaland
+1486,Strömstads kommun,Strömstad,14,Västra Götalands län,Västra Götaland
+1487,Vänersborgs kommun,Vänersborg,14,Västra Götalands län,Västra Götaland
+1488,Trollhättans kommun,Trollhättan,14,Västra Götalands län,Västra Götaland
+1489,Alingsås kommun,Alingsås,14,Västra Götalands län,Västra Götaland
+1490,Borås kommun,Borås,14,Västra Götalands län,Västra Götaland
+1491,Ulricehamns kommun,Ulricehamn,14,Västra Götalands län,Västra Götaland
+1492,Åmåls kommun,Åmål,14,Västra Götalands län,Västra Götaland
+1493,Mariestads kommun,Mariestad,14,Västra Götalands län,Västra Götaland
+1494,Lidköpings kommun,Lidköping,14,Västra Götalands län,Västra Götaland
+1495,Skara kommun,Skara,14,Västra Götalands län,Västra Götaland
+1496,Skövde kommun,Skövde,14,Västra Götalands län,Västra Götaland
+1497,Hjo kommun,Hjo,14,Västra Götalands län,Västra Götaland
+1498,Tidaholms kommun,Tidaholm,14,Västra Götalands län,Västra Götaland
+1499,Falköpings kommun,Falköping,14,Västra Götalands län,Västra Götaland
+1715,Kils kommun,Kil,17,Värmlands län,Värmland
+1730,Eda kommun,Eda,17,Värmlands län,Värmland
+1737,Torsby kommun,Torsby,17,Värmlands län,Värmland
+1760,Storfors kommun,Storfors,17,Värmlands län,Värmland
+1761,Hammarö kommun,Hammarö,17,Värmlands län,Värmland
+1762,Munkfors kommun,Munkfors,17,Värmlands län,Värmland
+1763,Forshaga kommun,Forshaga,17,Värmlands län,Värmland
+1764,Grums kommun,Grums,17,Värmlands län,Värmland
+1765,Årjängs kommun,Årjäng,17,Värmlands län,Värmland
+1766,Sunne kommun,Sunne,17,Värmlands län,Värmland
+1780,Karlstads kommun,Karlstad,17,Värmlands län,Värmland
+1781,Kristinehamns kommun,Kristinehamn,17,Värmlands län,Värmland
+1782,Filipstads kommun,Filipstad,17,Värmlands län,Värmland
+1783,Hagfors kommun,Hagfors,17,Värmlands län,Värmland
+1784,Arvika kommun,Arvika,17,Värmlands län,Värmland
+1785,Säffle kommun,Säffle,17,Värmlands län,Värmland
+1814,Lekebergs kommun,Lekeberg,18,Örebro län,Örebro
+1860,Laxå kommun,Laxå,18,Örebro län,Örebro
+1861,Hallsbergs kommun,Hallsberg,18,Örebro län,Örebro
+1862,Degerfors kommun,Degerfors,18,Örebro län,Örebro
+1863,Hällefors kommun,Hällefors,18,Örebro län,Örebro
+1864,Ljusnarsbergs kommun,Ljusnarsberg,18,Örebro län,Örebro
+1880,Örebro kommun,Örebro,18,Örebro län,Örebro
+1881,Kumla kommun,Kumla,18,Örebro län,Örebro
+1882,Askersunds kommun,Askersund,18,Örebro län,Örebro
+1883,Karlskoga kommun,Karlskoga,18,Örebro län,Örebro
+1884,Nora kommun,Nora,18,Örebro län,Örebro
+1885,Lindesbergs kommun,Lindesberg,18,Örebro län,Örebro
+1904,Skinnskattebergs kommun,Skinnskatteberg,19,Västmanlands län,Västmanland
+1907,Surahammars kommun,Surahammar,19,Västmanlands län,Västmanland
+1960,Kungsörs kommun,Kungsör,19,Västmanlands län,Västmanland
+1961,Hallstahammars kommun,Hallstahammar,19,Västmanlands län,Västmanland
+1962,Norbergs kommun,Norberg,19,Västmanlands län,Västmanland
+1980,Västerås kommun,Västerås,19,Västmanlands län,Västmanland
+1981,Sala kommun,Sala,19,Västmanlands län,Västmanland
+1982,Fagersta kommun,Fagersta,19,Västmanlands län,Västmanland
+1983,Köpings kommun,Köping,19,Västmanlands län,Västmanland
+1984,Arboga kommun,Arboga,19,Västmanlands län,Västmanland
+2021,Vansbro kommun,Vansbro,20,Dalarnas län,Dalarna
+2023,Malung-Sälens kommun,Malung-Sälen,20,Dalarnas län,Dalarna
+2026,Gagnefs kommun,Gagnef,20,Dalarnas län,Dalarna
+2029,Leksands kommun,Leksand,20,Dalarnas län,Dalarna
+2031,Rättviks kommun,Rättvik,20,Dalarnas län,Dalarna
+2034,Orsa kommun,Orsa,20,Dalarnas län,Dalarna
+2039,Älvdalens kommun,Älvdalen,20,Dalarnas län,Dalarna
+2061,Smedjebackens kommun,Smedjebacken,20,Dalarnas län,Dalarna
+2062,Mora kommun,Mora,20,Dalarnas län,Dalarna
+2080,Faluns kommun,Falun,20,Dalarnas län,Dalarna
+2081,Borlänge kommun,Borlänge,20,Dalarnas län,Dalarna
+2082,Säters kommun,Säter,20,Dalarnas län,Dalarna
+2083,Hedemora kommun,Hedemora,20,Dalarnas län,Dalarna
+2084,Avesta kommun,Avesta,20,Dalarnas län,Dalarna
+2085,Ludvika kommun,Ludvika,20,Dalarnas län,Dalarna
+2101,Ockelbo kommun,Ockelbo,21,Gävleborgs län,Gävleborg
+2104,Hofors kommun,Hofors,21,Gävleborgs län,Gävleborg
+2121,Ovanåkers kommun,Ovanåker,21,Gävleborgs län,Gävleborg
+2132,Nordanstigs kommun,Nordanstig,21,Gävleborgs län,Gävleborg
+2161,Ljusdals kommun,Ljusdal,21,Gävleborgs län,Gävleborg
+2180,Gävle kommun,Gävle,21,Gävleborgs län,Gävleborg
+2181,Sandvikens kommun,Sandviken,21,Gävleborgs län,Gävleborg
+2182,Söderhamns kommun,Söderhamn,21,Gävleborgs län,Gävleborg
+2183,Bollnäs kommun,Bollnäs,21,Gävleborgs län,Gävleborg
+2184,Hudiksvalls kommun,Hudiksvall,21,Gävleborgs län,Gävleborg
+2260,Ånge kommun,Ånge,22,Västernorrlands län,Västernorrland
+2262,Timrå kommun,Timrå,22,Västernorrlands län,Västernorrland
+2280,Härnösands kommun,Härnösand,22,Västernorrlands län,Västernorrland
+2281,Sundsvalls kommun,Sundsvall,22,Västernorrlands län,Västernorrland
+2282,Kramfors kommun,Kramfors,22,Västernorrlands län,Västernorrland
+2283,Sollefteå kommun,Sollefteå,22,Västernorrlands län,Västernorrland
+2284,Örnsköldsviks kommun,Örnsköldsvik,22,Västernorrlands län,Västernorrland
+2303,Ragunda kommun,Ragunda,23,Jämtlands län,Jämtland
+2305,Bräcke kommun,Bräcke,23,Jämtlands län,Jämtland
+2309,Krokoms kommun,Krokom,23,Jämtlands län,Jämtland
+2313,Strömsunds kommun,Strömsund,23,Jämtlands län,Jämtland
+2321,Åre kommun,Åre,23,Jämtlands län,Jämtland
+2326,Bergs kommun,Berg,23,Jämtlands län,Jämtland
+2361,Härjedalens kommun,Härjedalen,23,Jämtlands län,Jämtland
+2380,Östersunds kommun,Östersund,23,Jämtlands län,Jämtland
+2401,Nordmalings kommun,Nordmaling,24,Västerbottens län,Västerbotten
+2403,Bjurholms kommun,Bjurholm,24,Västerbottens län,Västerbotten
+2404,Vindelns kommun,Vindeln,24,Västerbottens län,Västerbotten
+2409,Robertsfors kommun,Robertsfors,24,Västerbottens län,Västerbotten
+2417,Norsjö kommun,Norsjö,24,Västerbottens län,Västerbotten
+2418,Malå kommun,Malå,24,Västerbottens län,Västerbotten
+2421,Storumans kommun,Storuman,24,Västerbottens län,Västerbotten
+2422,Sorsele kommun,Sorsele,24,Västerbottens län,Västerbotten
+2425,Dorotea kommun,Dorotea,24,Västerbottens län,Västerbotten
+2460,Vännäs kommun,Vännäs,24,Västerbottens län,Västerbotten
+2462,Vilhelmina kommun,Vilhelmina,24,Västerbottens län,Västerbotten
+2463,Åsele kommun,Åsele,24,Västerbottens län,Västerbotten
+2480,Umeå kommun,Umeå,24,Västerbottens län,Västerbotten
+2481,Lycksele kommun,Lycksele,24,Västerbottens län,Västerbotten
+2482,Skellefteå kommun,Skellefteå,24,Västerbottens län,Västerbotten
+2505,Arvidsjaurs kommun,Arvidsjaur,25,Norrbottens län,Norrbotten
+2506,Arjeplogs kommun,Arjeplog,25,Norrbottens län,Norrbotten
+2510,Jokkmokks kommun,Jokkmokk,25,Norrbottens län,Norrbotten
+2513,Överkalixs kommun,Överkalix,25,Norrbottens län,Norrbotten
+2514,Kalixs kommun,Kalix,25,Norrbottens län,Norrbotten
+2518,Övertorneå kommun,Övertorneå,25,Norrbottens län,Norrbotten
+2521,Pajala kommun,Pajala,25,Norrbottens län,Norrbotten
+2523,Gällivare kommun,Gällivare,25,Norrbottens län,Norrbotten
+2560,Älvsbyns kommun,Älvsbyn,25,Norrbottens län,Norrbotten
+2580,Luleå kommun,Luleå,25,Norrbottens län,Norrbotten
+2581,Piteå kommun,Piteå,25,Norrbottens län,Norrbotten
+2582,Bodens kommun,Boden,25,Norrbottens län,Norrbotten
+2583,Haparanda kommun,Haparanda,25,Norrbottens län,Norrbotten
+2584,Kiruna kommun,Kiruna,25,Norrbottens län,Norrbotten
